@@ -18,7 +18,7 @@ cd python-requirements-updater/
 Remotely pull and execute the script:
 
 ```shell
-curl -s "https://raw.githubusercontent.com/rarango9/python-requirements-updater/main/main.py" | python3 - "$@"
+curl -s "https://raw.githubusercontent.com/rarango9/python-requirements-updater/main/main.py" | python3 - "$@" <FILE_PATH>
 ```
 
 # Maintainers
